@@ -1,0 +1,4 @@
+# игнорируем mynotes
+mynotes.txt
+# или так:
+*.txt
